@@ -1,0 +1,6 @@
+export const set_product = 'set-product'
+export const set_productInput = 'set-productInput'
+export const add_product = 'add-product'
+export const delete_product = 'delete-product'
+export const update_product = 'update-product'
+export const set_products = 'set-products'
